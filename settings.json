@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PepperMint07.aternos.me",
+    "ip": "PepperMint07.aternos.me:12071",
     "port": 12071,
     "version": "",
     "try-creative": false
